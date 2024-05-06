@@ -16,6 +16,7 @@ Your ultimate destination for all your healthcare needs! 💊 Built with React.j
 - 🔄 Seamless integration with external APIs ensures real-time access to a vast array of healthcare products and services.
 - 🛒 Effortlessly fetch data from reputable sources to provide users with accurate and up-to-date information.
 <div align="center">
+  <img src="./masters/one.png" alt="CareIt classes"/>
 </div>
 
 
