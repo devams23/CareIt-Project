@@ -16,8 +16,10 @@ Your ultimate destination for all your healthcare needs! 💊 Built with React.j
 - 🔄 Seamless integration with external APIs ensures real-time access to a vast array of healthcare products and services.
 - 🛒 Effortlessly fetch data from reputable sources to provide users with accurate and up-to-date information.
 <div align="center">
-  <img src="./masters/one.png" alt="CareIt classes"/>
 </div>
+
+
+https://github.com/devams23/CareIt-Project/assets/109685793/62ab2606-f0e9-4738-ad42-bca7772bcc03
 
 ### Intuitive Cart Management
 - 🛍 Simplify the shopping experience with a user-friendly cart system.
@@ -25,6 +27,10 @@ Your ultimate destination for all your healthcare needs! 💊 Built with React.j
 <div align="center">
   <img src="./masters/membership.png" alt="CareIt membership"/>
 </div>
+
+
+
+
 
 ### Responsive Design
 - 📱 CareIt is crafted with a responsive design, ensuring optimal performance across devices.
