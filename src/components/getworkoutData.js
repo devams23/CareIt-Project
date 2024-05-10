@@ -7,8 +7,8 @@ async function fetchdata(exercisename) {
         params: {limit: '10'},
         url: urlexercise,
         headers: {
-          'X-RapidAPI-Key': '81d9322b84mshb81cf9da5c8871fp1a1892jsn4f5f1fd5cbb1',
-          'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
+          'X-RapidAPI-Key': '',
+          'X-RapidAPI-Host': ''
         }
       };
       if (exercisename != "exercises") {
